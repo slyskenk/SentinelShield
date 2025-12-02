@@ -1,4 +1,8 @@
 # SentinelShield: Full-Stack Explainable AI Fraud Defense
+[https://github.com/slyskenk/SentinelShield/blob/main/Screenshot1.png]
+[https://github.com/slyskenk/SentinelShield/blob/main/Screenshot2.png]
+[https://github.com/slyskenk/SentinelShield/blob/main/Screenshot3.png]
+
 
 A real-time banking fraud detection system for Namibia with Explainable AI (XAI) powered by Google Gemini.
 
