@@ -1,14 +1,17 @@
 # SentinelShield: Full-Stack Explainable AI Fraud Defense
 ### 🖥️ SentinelShield UI Screenshots
 
-![SentinelShield Dashboard showing high-risk alerts, scores, and NAD amounts.](https://raw.githubusercontent.com/slyskenk/SentinelShield/main/Screenshot1.png)
+![SentinelShield Dashboard showing high-risk alerts, scores, and NAD amounts.](<img width="1896" height="909" alt="image" src="https://github.com/user-attachments/assets/2708c67a-1f4f-4871-82ff-d8c4661fd533" />
+)
 
 ---
 
 #### 2. Aura XAI Explanation and Case Details
-![Detailed case view highlighting the Gemini-powered Aura XAI explanation and analyst action panel.](https://raw.githubusercontent.com/slyskenk/SentinelShield/main/Screenshot2.png)
+![Detailed case view highlighting the Gemini-powered Aura XAI explanation and analyst action panel.](<img width="612" height="839" alt="image" src="https://github.com/user-attachments/assets/4148a276-d13b-4a36-8ed5-80f35218e33e" />
+)
 
-![FastAPI Swagger UI demonstrating the POST /transactions/ingest endpoint used for real-time transaction submission.](https://raw.githubusercontent.com/slyskenk/SentinelShield/main/Screenshot3.png)
+![FastAPI Swagger UI demonstrating the POST /transactions/ingest endpoint used for real-time transaction submission.](<img width="1145" height="703" alt="image" src="https://github.com/user-attachments/assets/b367d171-8334-4e39-9da4-55bf7812e6ee" />
+)
 
 
 A real-time banking fraud detection system for Namibia with Explainable AI (XAI) powered by Google Gemini.
